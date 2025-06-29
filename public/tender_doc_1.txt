@@ -1,0 +1,3 @@
+General Overview of Slate.ng
+
+Slate.ng is a leading Nigerian EdTech company offering a holistic platform for school management and online learning. It integrates robust School Management Systems (SMS) with dynamic Learning Management Solutions (LMS) to streamline operations and enhance educational delivery for schools, students, teachers, and parents.

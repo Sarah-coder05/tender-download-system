@@ -1,0 +1,3 @@
+Slate.ng School Management Features
+
+Slate.ng's School Management System (SMS) provides comprehensive tools for efficient school administration. This includes automated processes for admissions, student records, staff management, financial accounting, and community engagement. It simplifies daily operations, allowing schools to focus more on educational quality.

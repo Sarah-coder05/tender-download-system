@@ -1,0 +1,65 @@
+[
+    {
+      "id": 1,
+      "title": "Slate.ng: Comprehensive Platform Overview",
+      "description": "Tender for a general overview of Slate.ng, highlighting its integrated SMS and LMS solutions for education.",
+      "deadline": "2025-07-15",
+      "downloadLink": "/tender_doc_1.txt"
+    },
+    {
+      "id": 2,
+      "title": "Slate.ng School Management System (SMS) Features",
+      "description": "Tender detailing the administrative features of Slate.ng's SMS, including admissions, staff, finance, and community engagement.",
+      "deadline": "2025-07-20",
+      "downloadLink": "/tender_doc_2.txt"
+    },
+    {
+      "id": 3,
+      "title": "Slate Courses: Engaging Learning Management",
+      "description": "Tender on Slate Courses, covering interactive video lessons, gamified assignments, and curated content for enhanced learning.",
+      "deadline": "2025-07-25",
+      "downloadLink": "/tender_doc_3.txt"
+    },
+    {
+      "id": 4,
+      "title": "Parental Monitoring & Communication with Slate.ng",
+      "description": "Tender outlining features for parents to track child progress, communicate with teachers, and receive alerts on academic journey.",
+      "deadline": "2025-07-30",
+      "downloadLink": "/tender_doc_4.txt"
+    },
+    {
+      "id": 5,
+      "title": "Teacher Resources and Support on Slate.ng",
+      "description": "Tender focusing on the illustrative and engaging resources provided by Slate.ng to support teachers in lesson delivery and classroom management.",
+      "deadline": "2025-08-05",
+      "downloadLink": "/tender_doc_5.txt"
+    },
+    {
+      "id": 6,
+      "title": "Slate Rewards Program for Students & Teachers",
+      "description": "Tender explaining the Slate Rewards initiative, incentivizing participation and academic excellence through partnerships with local businesses.",
+      "deadline": "2025-08-10",
+      "downloadLink": "/tender_doc_6.txt"
+    },
+    {
+      "id": 7,
+      "title": "Impact of Slate.ng on Educational Outcomes",
+      "description": "Tender discussing how Slate.ng leverages technology to close learning gaps, boost student confidence, and improve overall academic success.",
+      "deadline": "2025-08-15",
+      "downloadLink": "/tender_doc_7.txt"
+    },
+    {
+      "id": 8,
+      "title": "Data Security & Privacy Protocols at Slate.ng",
+      "description": "Tender on Slate.ng's commitment to data protection, outlining its strict protocols for securing sensitive information.",
+      "deadline": "2025-08-20",
+      "downloadLink": "/tender_doc_8.txt"
+    },
+    {
+      "id": 9,
+      "title": "Slate.ng: Future Vision & Expansion Plans",
+      "description": "Tender detailing Slate.ng's commitment to continuous innovation, new features, and broader reach across educational institutions in Nigeria.",
+      "deadline": "2025-08-25",
+      "downloadLink": "/tender_doc_9.txt"
+    }
+  ]

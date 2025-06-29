@@ -1,0 +1,3 @@
+Parental Monitoring with Slate.ng
+
+Slate.ng empowers parents with real-time insights into their child's academic journey. The platform facilitates direct communication with teachers, allows parents to set learning goals, and provides detailed progress tracking and actionable reports on performance, behavior, and activity, fostering active parental involvement.

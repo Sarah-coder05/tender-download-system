@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "School Building Construction",
+    "description": "Construction of a 3-classroom block.",
+    "deadline": "2025-07-01",
+    "documentUrl": "/docs/sample1.pdf"
+  },
+  {
+    "id": 2,
+    "title": "Supply of Laptops",
+    "description": "Procurement of 100 laptops for teachers.",
+    "deadline": "2025-07-05",
+    "documentUrl": "/docs/sample2.pdf"
+  }
+]
