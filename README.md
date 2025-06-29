@@ -1,22 +1,20 @@
-Tender Download System
+# Tender Download System
 This is a modern, responsive web application built with Vue 3 and Tailwind CSS, designed to simulate a system for browsing, searching, and downloading tender documents. It features a clean user interface, dynamic content filtering, pagination, detailed tender views, and a static authentication system.
 
 Table of Contents
-Features
+# Features
 
-Technologies Used
+# Technologies Used
 
-Setup Instructions
+# Setup Instructions
 
-Usage
+# Usage
 
-Project Structure
+# Project Structure
 
-Future Enhancements
+# Author
 
-Author
-
-Features
+## Features
 Tender Listing: Displays a paginated list of tender documents.
 
 Search Functionality: Allows users to search tenders by title and description with an integrated search icon in the header.
@@ -35,7 +33,7 @@ Robust Error Handling: Displays user-friendly messages and a retry option if ten
 
 Loading State: Provides a visual loading indicator during data fetching with an artificial delay for demonstration.
 
-Technologies Used
+# Technologies Used
 Vue.js 3 (Composition API): Reactive framework for building user interfaces.
 
 TypeScript: For type-safe JavaScript development.
@@ -44,23 +42,22 @@ Tailwind CSS: A utility-first CSS framework for rapid and responsive UI developm
 
 fetch API: For simulating data fetching from a local JSON file.
 
-Setup Instructions
+# Setup Instructions
 To get this project up and running on your local machine:
 
 Clone the repository (if applicable):
 If this project were in a Git repository, you would clone it first:
 
-git clone <repository-url>
+git clone <https://github.com/Sarah-coder05/tender-download-system>
 cd tender-download-system
 
-(Otherwise, just navigate to your project directory C:\Users\PAVILION X360 OS 11\Documents\Personal\FRONTEND PROJECTS\Tender\tender-download-system)
 
 Install Dependencies:
 Use npm to install the necessary project dependencies:
 
 npm install
 
-Prepare Dummy Data:
+# Prepare Dummy Data:
 
 Ensure you have a public folder in your project root.
 
@@ -68,55 +65,53 @@ Create tenders.json inside the public folder with the tender data.
 
 Create dummy .txt files (e.g., tender_doc_1.txt, tender_doc_2.txt, etc.) inside the public folder. The content for these files should be placed inside them.
 
-Run the Development Server:
+# Run the Development Server:
 Start the local development server:
 
 npm run serve
-# or, if your project uses Vite, it might be:
-# npm run dev
 
 The application will typically be available at http://localhost:8080/ (or another port if 8080 is in use).
 
-Usage
+# Usage
 Access the Application: Open your web browser and navigate to the address provided by your development server (e.g., http://localhost:8080/).
 
-Login:
+# Login:
 
 You will first be presented with a login form.
 
 Use the following static credentials:
 
-Email: user@example.com
+Email: user@ufedo.com
 
-Password: password123
+Password: Abcd123
 
 Click the "Login" button to access the tender list.
 
-Browse Tenders:
+# Browse Tenders:
 
 Once logged in, you will see a list of available tenders.
 
 Use the "Previous" and "Next" buttons at the bottom to navigate through pages. The current page number will be displayed.
 
-Search Tenders:
+# Search Tenders:
 
 Use the search input field in the header to filter tenders by their title or description. The pagination will reset to the first page for filtered results.
 
-View Tender Details:
+# View Tender Details:
 
 Click anywhere on a tender card (excluding the "Download Tender" button) to open a modal window with more detailed information about that specific tender.
 
 Click the "Close" button or the 'X' icon to dismiss the modal.
 
-Download Tender Documents:
+# Download Tender Documents:
 
 Click the "Download Tender" button on any tender card to download the associated document. The browser will handle the download process.
 
-Logout:
+# Logout:
 
 Click the "Logout" button in the header to return to the login screen.
 
-Project Structure
+# Project Structure
 tender-download-system/
 ├── public/                 # Static assets (index.html, tenders.json, tender_doc_X.txt)
 │   ├── index.html          # Main HTML file
@@ -139,23 +134,6 @@ tender-download-system/
 ├── tsconfig.json           # TypeScript configuration
 └── tailwind.config.js      # Tailwind CSS configuration
 
-Future Enhancements
-Full Backend Integration: Replace static data and authentication with a real API and database.
 
-Advanced Filtering/Sorting: Implement more complex filtering options (e.g., by deadline range, category) and dynamic sorting.
-
-User Roles & Permissions: Introduce different user roles (e.g., admin, standard user) with varying access levels.
-
-User Profile Management: Allow users to manage their profiles.
-
-Real-time Updates: Implement WebSocket for real-time tender updates.
-
-PDF Viewer Integration: Display PDF tenders directly within the browser rather than forcing a download.
-
-Improved Empty States: More engaging messages for no search results or no available tenders.
-
-Form Validation: Enhance validation for login/registration forms.
-
-Author
 Sarah Moses
-[Your Email/LinkedIn/GitHub Profile]
+https://github.com/Sarah-coder05tender-download-system
